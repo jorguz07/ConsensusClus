@@ -1,0 +1,1 @@
+## My own implementation of the Consensus Clustering algorithm descrived in the paper:
